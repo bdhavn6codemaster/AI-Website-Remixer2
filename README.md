@@ -11,6 +11,7 @@ that AI engineering is about **API orchestration**, not expensive hardware.
 | Original Site | AI Solarpunk Remix |
 | :--- | :--- |
 | <img src="screenshots/before.png" width="300"> | <img src="screenshots/after.png" width="300"> |
+
 ​🧠 Recursive Synthetic Data Pipeline
 ​I don't just prompt; I build multi-agent orchestration loops to generate high-fidelity training data.
 ​Architect Agent: Generates complex UI blueprints (Dashboards, Portals).
