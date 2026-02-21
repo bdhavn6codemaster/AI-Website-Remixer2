@@ -32,3 +32,9 @@ that AI engineering is about **API orchestration**, not expensive hardware.
 ​Self-Correction: The pipeline identified and fixed "Semantic Voids" and "Fragile Dependencies" found in the initial AI draft.
 
 ​Innovation: Built, critiqued, and deployed entirely using a Galaxy A14 mobile device.
+
+Compute Efficiency Optimized agentic loops for low-RAM environments (8GB mobile).
+
+Tooling Mastery of web-based IDEs (Colab) and CLI orchestration via mobile terminal.
+
+Architecture Decoupled LLM logic from hardware, focusing on API latency and token optimization.
