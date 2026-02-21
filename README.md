@@ -14,7 +14,11 @@ that AI engineering is about **API orchestration**, not expensive hardware.
 
 ​🧠 Recursive Synthetic Data Pipeline
 ​I don't just prompt; I build multi-agent orchestration loops to generate high-fidelity training data.
+
 ​Architect Agent: Generates complex UI blueprints (Dashboards, Portals).
+
 ​QA Agent: Critiques code for accessibility, DRY principles, and UX flaws.
+
 ​Lead Dev Agent: Refines the code into "Gold Standard" output.
+
 ​Result: A unique, pre-critiqued dataset optimized for fine-tuning.
