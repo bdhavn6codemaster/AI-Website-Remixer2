@@ -19,6 +19,16 @@ that AI engineering is about **API orchestration**, not expensive hardware.
 
 ​QA Agent: Critiques code for accessibility, DRY principles, and UX flaws.
 
-​Lead Dev Agent: Refines the code into "Gold Standard" output.
+​Lead Dev Agent: Refines the code into "Gold Standard" 
 
-​Result: A unique, pre-critiqued dataset optimized for fine-tuning.
+​🛸 Project Spotlight: Mars Colony Logistics
+
+​Live Preview: View the Dashboard
+
+​This dashboard was generated through a Recursive Agentic Loop.
+
+​Challenge: Minimalist-Dark theme for high-stakes Martian logistics.
+
+​Self-Correction: The pipeline identified and fixed "Semantic Voids" and "Fragile Dependencies" found in the initial AI draft.
+
+​Innovation: Built, critiqued, and deployed entirely using a Galaxy A14 mobile device.
